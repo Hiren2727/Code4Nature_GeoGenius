@@ -7,12 +7,12 @@ The objectives of our study include:
 •	To monitor major forest areas situated within the National Parks in near-real-time using satellite-based data. 
 •	Projecting the vulnerability of major forest areas to climate change under future emission scenarios.
 
-We have developed three products to fulfill the given objectives. \n
-Main Website: https://sites.google.com/iitgn.ac.in/evolvingcanopies-iitgn/home \n
-Forest Area Time Series: https://akankshayadaw.users.earthengine.app/view/timeseriesforest \n
-Land Use Statistics: https://akankshayadaw.users.earthengine.app/view/lulcnp \n
-Forest Monitoring: https://akankshayadaw.users.earthengine.app/view/forestdynamics \n
-Future Projections: https://sites.google.com/iitgn.ac.in/evolvingcanopies-iitgn/future-projections \n
+We have developed three products to fulfill the given objectives. 
+Main Website: https://sites.google.com/iitgn.ac.in/evolvingcanopies-iitgn/home 
+Forest Area Time Series: https://akankshayadaw.users.earthengine.app/view/timeseriesforest 
+Land Use Statistics: https://akankshayadaw.users.earthengine.app/view/lulcnp 
+Forest Monitoring: https://akankshayadaw.users.earthengine.app/view/forestdynamics 
+Future Projections: https://sites.google.com/iitgn.ac.in/evolvingcanopies-iitgn/future-projections 
 
 We have employed Google Earth Engine to develop web-GIS portals for our products. 
 Additionally, all analyses have been conducted using Google Earth Engine, and the scripts for these analyses are provided in this repository.
